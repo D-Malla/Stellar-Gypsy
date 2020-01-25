@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A91DACC6-3C85-CE84-A2CC-458D609334CC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Utility/WaypointCircuit.cs">
+    <Files>
+      <File FileName="Assets/MusicPlayer.cs" Line="8" Column="37" />
+      <File FileName="Assets/Standard Assets/Utility/WaypointCircuit.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="532aa345-8f4a-4401-bf29-7edbb7b95212" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
